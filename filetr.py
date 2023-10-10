@@ -76,6 +76,6 @@ def translate_text():
         print(translation)
         print("Ok")
     else:
-        print("Невідоме місце виведення результату.")
+        print("Невідоме місце  виведення результату.")
 
 translate_text()
